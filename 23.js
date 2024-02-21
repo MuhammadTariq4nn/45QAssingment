@@ -1,0 +1,23 @@
+var car = 'subaru';
+console.log("Is car == 'subaru'? I predict True.");
+console.log(car === 'subaru');
+var weather = 'Rainy';
+console.log("Is Weather == 'Rainy'? I predict True.");
+console.log(weather === 'Rainy');
+var Bike = 'Honda';
+console.log("Is Weather == 'Honda'? I predict True.");
+console.log(Bike === 'Honda');
+var x = 10;
+var y = 5;
+console.log("Is x greater than y? I predict True.");
+console.log(x > y);
+var fruit = 'apple';
+var color = 'red';
+console.log("Is fruit === 'apple' and color === 'red'? I predict True.");
+console.log(fruit === 'apple' && color === 'red');
+//false OutPut
+console.log(5 > 10);
+console.log(10 < 10);
+console.log(5 != 5);
+console.log(3 * 5 === 10);
+console.log(2 <= 10);
